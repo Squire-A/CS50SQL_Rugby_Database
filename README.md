@@ -1,8 +1,12 @@
+# Harvard's CS50SQL Course Final Project Submission
+
+This was my final project submitted for the CS50SQL course.
+
 # Design Document
 
 By Anthony Squire
 
-Video overview: <URL https://youtu.be/fm_yX-gBPus>
+Video overview: <https://youtu.be/fm_yX-gBPus>
 
 ## Scope
 
